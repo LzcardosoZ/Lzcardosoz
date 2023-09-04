@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu Perfil! 😁
+## Bem-vindo(a) ao meu Perfil! Me chamo Luiz Felipe, tenho 19 anos e sou um incipiente entusiasta na aprendizagem. 
 
  <div>
    <a href="https://github.com/Lzcardosoz">
